@@ -1,4 +1,4 @@
-# 3D Convolutional Neural Network with Max Pooling
+# 3D Convolutional Neural Network
 
 ## Project Overview
 
@@ -139,4 +139,6 @@ The system operates in three stages:
 5. View the results printed in the simulation log.
 
 ---
-
+## Author  
+Nithyasree  
+Trainee at Ramaiah Skill Academy
