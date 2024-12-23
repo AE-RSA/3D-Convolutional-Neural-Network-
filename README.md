@@ -139,7 +139,7 @@ The system operates in three stages:
 5. View the results printed in the simulation log.
 
 ---
-## Author  
+## Authors  
 Sudeep Asundi,  
 Nithyasree  
-Trainee at Ramaiah Skill Academy
+Trainees at Ramaiah Skill Academy
