@@ -140,14 +140,3 @@ The system operates in three stages:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-## Contact
-
-For any inquiries or feedback, please raise an issue in the repository or contact the maintainer.
-
----
